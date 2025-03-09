@@ -7,13 +7,13 @@
     };
 
     di = {
-      url = "github:coletrammer/di";
+      url = "github:coletrammer/di/mac-support";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-parts.follows = "flake-parts";
     };
 
     dius = {
-      url = "github:coletrammer/dius";
+      url = "github:coletrammer/dius/mac-support";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.di.follows = "di";
       inputs.flake-parts.follows = "flake-parts";

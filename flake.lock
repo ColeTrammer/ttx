@@ -2,46 +2,60 @@
   "nodes": {
     "di": {
       "inputs": {
-        "flake-parts": ["flake-parts"],
-        "nixpkgs": ["nixpkgs"]
+        "flake-parts": [
+          "flake-parts"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
       },
       "locked": {
-        "lastModified": 1741467362,
-        "narHash": "sha256-KHLdzPHox6Y3gvRCsWLkJ5lbDZ0atXjOwhac/D7PWAs=",
+        "lastModified": 1741503407,
+        "narHash": "sha256-FPGOtFCH5rBbgjJ8PK8DhkJ3mLhKmahqIIBSoA2wPeU=",
         "owner": "coletrammer",
         "repo": "di",
-        "rev": "ca087fe65be0d4929f226ef4d05646564c3ca680",
+        "rev": "48821cac19a9adfde5a08876b3530526450456a8",
         "type": "github"
       },
       "original": {
         "owner": "coletrammer",
+        "ref": "mac-support",
         "repo": "di",
         "type": "github"
       }
     },
     "dius": {
       "inputs": {
-        "di": ["di"],
-        "flake-parts": ["flake-parts"],
-        "nixpkgs": ["nixpkgs"]
+        "di": [
+          "di"
+        ],
+        "flake-parts": [
+          "flake-parts"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
       },
       "locked": {
-        "lastModified": 1741465832,
-        "narHash": "sha256-uR1XKqWYcJx7hhiXmonZkDG8JiMG2kzJ43JBSZdC8zA=",
+        "lastModified": 1741504638,
+        "narHash": "sha256-17SUFVNL/FzLrwwAlRcR+9gZmct6hjW/cgW7rsb//3k=",
         "owner": "coletrammer",
         "repo": "dius",
-        "rev": "99e2ec708969ccc06150dcf329ffbb4e8fa111ff",
+        "rev": "18e5899d365f9a6a62be7f6dd8a3c04b78087ebf",
         "type": "github"
       },
       "original": {
         "owner": "coletrammer",
+        "ref": "mac-support",
         "repo": "dius",
         "type": "github"
       }
     },
     "flake-parts": {
       "inputs": {
-        "nixpkgs-lib": ["nixpkgs"]
+        "nixpkgs-lib": [
+          "nixpkgs"
+        ]
       },
       "locked": {
         "lastModified": 1740872218,
