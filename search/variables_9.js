@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['legacy_5fcode_5fpoint_5fmappings_0',['legacy_code_point_mappings',['../namespacettx.html#a4ecee53f404b6e4e286921f3dd3d982f',1,'ttx']]],
+  ['legacy_5ffunctional_5fkey_5fmappings_1',['legacy_functional_key_mappings',['../namespacettx.html#ad254be519b9381bd06120255712c97f2',1,'ttx']]]
+];
